@@ -1,0 +1,6 @@
+{
+  "name": "Trò Chơi Kéo Co Trắc Nghiệm",
+  "description": "Ứng dụng trò chơi kéo co đối kháng 2 đội với 10 câu hỏi trắc nghiệm, tùy chỉnh câu hỏi, đặt tên đội và chọn nhân vật đại diện.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
